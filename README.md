@@ -1,6 +1,8 @@
 # demo
 
-A new Flutter project.
+A new Flutter project to calculate the Body Mass Index.
+
+![BMI_flutter_app](BMI_app.jpg)
 
 ## Getting Started
 
