@@ -4,6 +4,10 @@ A new Flutter project to calculate the Body Mass Index.
 
 ![BMI_flutter_app](BMI_app.jpeg)
 
+The result page after calculating the BMI
+
+![BMI_flutter_app_result](BMI_app_result.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
