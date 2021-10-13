@@ -2,7 +2,7 @@
 
 A new Flutter project to calculate the Body Mass Index.
 
-![BMI_flutter_app](BMI_app.jpg)
+![BMI_flutter_app](BMI_app.jpeg)
 
 ## Getting Started
 
